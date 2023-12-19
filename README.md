@@ -13,7 +13,7 @@ O dataset utilizado está dispíverl neste [link](https://data.world/makeovermon
 O conjunto de dados lista incidentes de trânsito ocorridos na cidade de
 Londres.
 
-### **Meu trabalho é analisar os dados e construir gráficos que respondam a essas 10 perguntas abaixo**:
+### **Meu trabalho é analisar os dados e responder a essas 10 perguntas abaixo**:
 
 1. Qual a quantidade de incidentes por gênero?
 
