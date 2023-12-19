@@ -1,10 +1,11 @@
 # Risk-Analysis-in-Public-Transport
-**Este é um projeto da Formação Cientista de Dados da Data Science Academy**
+**Este é um projeto da Formação Cientista de Dados da [Data Science Academy](https://www.datascienceacademy.com.br/)**
 
 Quais incidentes de trânsito ocorrem com mais frequência? Qual a faixa etária que mais se envolve em incidentes de trânsito? Qual o evento mais comum nos incidentes? Passageiros ou pedestres são as maiores vítimas dos incidentes?
 
 Essas e outras perguntas devem ser respondidas através da análise de dados reais disponíveis publicamente. Meu trabalho neste projeto é aplicar minhas habilidades de análise e responder diversas perguntas de negócio através de gráficos e storytelling.
 
+## Informações sobre o projeto
 Para a construção deste projeto seá utilizado a liguagem **PYTHON** e **SQL**.
 
 O dataset utilizado está dispíverl neste [link](https://data.world/makeovermonday/2018w51).
@@ -12,8 +13,7 @@ O dataset utilizado está dispíverl neste [link](https://data.world/makeovermon
 O conjunto de dados lista incidentes de trânsito ocorridos na cidade de
 Londres.
 
-Meu trabalho é analisar os dados e construir gráficos que respondam a essas
-10 perguntas abaixo:
+### **Meu trabalho é analisar os dados e construir gráficos que respondam a essas 10 perguntas abaixo**:
 
 1. Qual a quantidade de incidentes por gênero?
 
