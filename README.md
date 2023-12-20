@@ -1,5 +1,5 @@
 # Risk-Analysis-in-Public-Transport
-**Este é um projeto da Formação Cientista de Dados da [Data Science Academy](https://www.datascienceacademy.com.br/)**
+## **Este é um projeto da Formação Cientista de Dados da [Data Science Academy](https://www.datascienceacademy.com.br/)**
 
 ![](data/image.png)
 
@@ -10,7 +10,7 @@ Essas e outras perguntas devem ser respondidas através da análise de dados rea
 ## Informações sobre o projeto
 Para a construção deste projeto seá utilizado a liguagem **PYTHON** e **SQL**.
 
-O dataset utilizado está dispíverl neste [link](https://data.world/makeovermonday/2018w51).
+O dataset utilizado está disponível neste [link](https://data.world/makeovermonday/2018w51).
 
 O conjunto de dados lista incidentes de trânsito ocorridos na cidade de
 Londres.
